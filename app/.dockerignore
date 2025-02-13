@@ -4,5 +4,5 @@ Dockerfile
 .gitignore
 LICENSE
 README.md
-test.py
+test_app.py
  ecs-task-definition.json
